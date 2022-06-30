@@ -1,1 +1,10 @@
-<paste log output from Kubernetes-mediated prediction, here>
+NAME               READY   STATUS    RESTARTS   AGE
+sk-cloud-devops4   1/1     Running   0          4s
+Forwarding from 127.0.0.1:3111 -> 80
+Forwarding from [::1]:3111 -> 80
+Handling connection for 3111
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}

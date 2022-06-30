@@ -19,4 +19,4 @@ kubectl get pods
 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward sk_cloud_devops4 3111:80
+kubectl port-forward sk-cloud-devops4 3111:80

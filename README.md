@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+## Circle CI status badge
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/shubham0297/CloudDevOps4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/shubham0297/CloudDevOps4/tree/main)
 
 ## Project Overview
 
